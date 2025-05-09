@@ -432,6 +432,54 @@ Set the default directory to save images to. If empty, will use the external sto
 # <kbd>🧩 Desktop</kbd>
 This component is developed by th using Fast.<br>This component provides a realistic desktop device mockup.<br>It is designed to simulate the look and feel of a desktop device, allowing for a more immersive user experience.<br>The component is developed by th using Fast, ensuring a high level of detail and realism.<br>The component is highly customizable, allowing developers to tailor the appearance and behavior to their specific needs.<br>With its advanced features and realistic design, this component is ideal for creating engaging and interactive desktop Screenshot Mockups.<br><a href='https://t.me/techhamara91/' target='_blank'>Telegram</a> | <a href='https://github.com/TechHamara/' target='_blank'>GitHub</a><br><a href='https://techhamara.blogspot.com/' target='_blank'>Blogger</a> | <a href='https://m.youtube.com/c/TECHHAMARA?sub_confirmation=1' target='_blank'>YouTube</a><br><a href='https://github.com/TechHamara/Th_Free_Extensions' target='_blank'><small><u>Find More Extension</u></small></a><br><a href='https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE.md#terms-and-conditions-for-the-extension' target='_blank'><small><u>Terms & Conditions</u></small></a>
 
+![SaveFailed_Event](https://github.com/user-attachments/assets/21ebdcdd-f7f2-47be-81d3-fd948d21fc53)
+![SaveSuccess_Event](https://github.com/user-attachments/assets/deefb76b-c410-441f-b4e0-73f7180a4abc)
+
+-----
+
+![BackgroundRGB_Method](https://github.com/user-attachments/assets/9cb350f9-91b9-4204-84eb-e74cb389dcc4)
+![BackgroundGradient_Method](https://github.com/user-attachments/assets/e5db6863-49c1-4d5c-b04d-fb9e2b949c66)
+![ScreenGradient_Method](https://github.com/user-attachments/assets/392cb775-b7e4-4cd5-9491-e5315e3b79a3)
+![SaveFrameAsPNG_Method](https://github.com/user-attachments/assets/20a04ba8-078c-443d-8e44-e643aefe9c77)
+
+![SaveFrameAsJPEG_Method](https://github.com/user-attachments/assets/ea9e6ae5-9ffc-4fbd-92a2-7e9fa2ec2d4a)
+![SaveAsPNG_Method](https://github.com/user-attachments/assets/3b07c0fd-c888-48e6-92a4-7f4ec1e003e9)
+![SaveAsJPEG_Method](https://github.com/user-attachments/assets/a7ee1d7e-6d9f-4c1c-90d4-3ba533a70b17)
+![LoadIMacScreenImage_Method](https://github.com/user-attachments/assets/111e0738-ae6e-46d6-b923-e2d487bf1373)
+![IMacMockup_Method](https://github.com/user-attachments/assets/56603125-f6ec-46a8-bc16-04fd29b84409)
+
+![CustomizeIMacMockup_Method](https://github.com/user-attachments/assets/04e03c2e-5c24-45c5-bda0-07968613ba60)
+![CaptionPadding_Method](https://github.com/user-attachments/assets/cb64971c-6e83-4338-986b-e3b90a433c10)
+
+-----
+
+![ImageQuality_Set_Property](https://github.com/user-attachments/assets/443e7667-e5ee-4f8e-a09e-e3f1961068fb)
+![ImageQuality_Get_Property](https://github.com/user-attachments/assets/5792f4d8-8f29-437b-be2b-6253a3e9edf5)
+![IMacName_Set_Property](https://github.com/user-attachments/assets/11231c2f-cae5-47db-bf86-1cc49c32d3f3)
+![DarkMode_Set_Property](https://github.com/user-attachments/assets/d0241775-754e-4a14-9d78-74feb31b3c9d)
+![DarkMode_Get_Property](https://github.com/user-attachments/assets/c49ba1b1-892c-4f1d-97c2-130c6cb5d4f4)
+![CaptionTextStyle_Set_Property](https://github.com/user-attachments/assets/65f4c7bf-b474-4da8-9200-d0e60c12f7aa)
+![CaptionTextColor_Set_Property](https://github.com/user-attachments/assets/64554456-f54b-4d8d-bd26-ca235fa4e251)
+![CaptionText_Set_Property](https://github.com/user-attachments/assets/d16ab966-4a32-4c95-b86d-1f799c647c1e)
+![CaptionSubTextStyle_Set_Property](https://github.com/user-attachments/assets/3de0f740-73f9-4094-83e6-9f3c6e153ff9)
+![CaptionSubTextColor_Set_Property](https://github.com/user-attachments/assets/44dc0734-2b12-467c-a2c0-3142d6dca5fd)
+![CaptionSubText_Set_Property](https://github.com/user-attachments/assets/16700dce-7328-4ad8-a534-7418f2d66bd7)
+![CaptionSubFontSize_Set_Property](https://github.com/user-attachments/assets/7aa94121-5754-40e3-bb6a-7669e016d9cd)
+![CaptionRotation_Set_Property](https://github.com/user-attachments/assets/83cde96c-3be8-4eab-a0b7-ee2816e41ac4)
+![CaptionPaddingTop_Set_Property](https://github.com/user-attachments/assets/230a1f96-80b9-4c87-95be-09f1271891da)
+![CaptionPaddingRight_Set_Property](https://github.com/user-attachments/assets/1f1cae7f-ff35-40a4-9817-70ec32927c1e)
+![CaptionPaddingLeft_Set_Property](https://github.com/user-attachments/assets/70867d79-1a83-4e5b-8ac5-157103942de5)
+![CaptionPaddingBottom_Set_Property](https://github.com/user-attachments/assets/4a86a5b3-8360-4cb2-9ee8-4d70b6cbd44b)
+![CaptionFontSize_Set_Property](https://github.com/user-attachments/assets/b9c7a1aa-a936-42fb-9461-228e3a6ccd04)
+![BackgroundColor_Set_Property](https://github.com/user-attachments/assets/9fabdf70-c093-4912-8bd1-ef44c275ae90)
+![ShowIMacName_Set_Property](https://github.com/user-attachments/assets/23f534c2-10fb-47e3-bb65-0f566cfedda4)
+![ShadowElevation_Set_Property](https://github.com/user-attachments/assets/2e2365a9-3c5d-4e64-bbcb-fc90e52a0a84)
+![SaveDirectory_Set_Property](https://github.com/user-attachments/assets/e8831e11-2a7d-4b47-bf92-6deab7c7aa15)
+![SaveDirectory_Get_Property](https://github.com/user-attachments/assets/b71a8334-df65-44be-b32a-0f3ffe2af95f)
+![LoadBackgroundImage_Set_Property](https://github.com/user-attachments/assets/22218ecb-da18-4624-b8f7-3d42373fd59a)
+
+-----
+
 ## <kbd>Events:</kbd>
 **Desktop** has total 2 events.
 
