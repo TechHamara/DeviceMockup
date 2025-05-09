@@ -25,6 +25,10 @@ This component is developed by th using Fast.<br>This component provides a reali
 ## <kbd>Events:</kbd>
 **DeviceMockup** has total 2 events.
 
+![SaveSuccess_Event](https://github.com/user-attachments/assets/09b82407-e96f-448b-8a8d-28e8c3419b5b)
+![SaveFailed_Event](https://github.com/user-attachments/assets/d358e88f-08b4-4be4-87fd-b0c062873faf)
+
+
 ### SaveSuccess
 Event raised when the mockup is successfully saved to a file
 
@@ -41,6 +45,23 @@ Event raised when there is an error saving the mockup
 
 ## <kbd>Methods:</kbd>
 **DeviceMockup** has total 15 methods.
+
+![BackgroundRGB_Method](https://github.com/user-attachments/assets/0a898922-8ca5-4b4d-9380-466088962558)
+![BackgroundGradient_Method](https://github.com/user-attachments/assets/5ee9970c-16eb-4c2f-8d02-2eb115969a0c)
+![ShowHomeIndicator_Method](https://github.com/user-attachments/assets/6a75fdbb-cd7d-4375-bdfa-e9cb381598bc)
+![ScreenGradient_Method](https://github.com/user-attachments/assets/0109f997-81e7-4eb7-a23d-b8d0b096a0bc)
+![SaveFrameAsPNG_Method](https://github.com/user-attachments/assets/554bdcc6-a023-47d1-ac20-73061f164a0e)
+![SaveFrameAsJPEG_Method](https://github.com/user-attachments/assets/941d057f-6afd-4777-9f41-5eb26487f36b)
+![SaveAsPNG_Method](https://github.com/user-attachments/assets/cdd148be-330c-4661-b50c-a2e67af35182)
+![SaveAsJPEG_Method](https://github.com/user-attachments/assets/d5486f12-5f78-4258-88db-e1c421e60400)
+![PhoneMockup_Method](https://github.com/user-attachments/assets/1bbd3cbf-fb42-48bf-9e62-9294fcff29ad)
+![FrameGradient_Method](https://github.com/user-attachments/assets/a253fcd4-c934-490d-8046-06328078c595)
+![DeviceDimensions_Method](https://github.com/user-attachments/assets/38a0fbd7-eb95-48f4-ad2d-f028ca6e5163)
+![CustomizeVolumeButtons_Method](https://github.com/user-attachments/assets/e74b7488-3946-418a-8ef5-dc2fd70b83b5)
+![CustomizePowerButton_Method](https://github.com/user-attachments/assets/77872545-1099-4ef2-b383-c338facfd88f)
+![ChangeMockupType_Method](https://github.com/user-attachments/assets/48a80b64-4a6f-4b28-a15a-9588e65c85f5)
+![CaptionPadding_Method](https://github.com/user-attachments/assets/d351bd8d-273b-457f-a415-64d3571a7365)
+
 
 ### PhoneMockup
 Add mockup layout to the given arrangement
@@ -172,6 +193,44 @@ Save only the phone frame portion as JPEG image (without the background). Exampl
 
 ## <kbd>Setters:</kbd>
 **DeviceMockup** has total 36 setter properties.
+
+![LoadScreenImage_Set_Property](https://github.com/user-attachments/assets/410e14ec-126e-4b15-bed5-0d05168f559a)
+![LoadBackgroundImage_Set_Property](https://github.com/user-attachments/assets/5d19272c-ad50-4f8e-bdec-48c67b7a5360)
+![ImageQuality_Set_Property](https://github.com/user-attachments/assets/b4165a69-41e4-4fcb-b357-ffcc3ce05ad7)
+![FrameShadowElevation_Set_Property](https://github.com/user-attachments/assets/577dddc7-1666-4cda-9d22-fea0c8c4308a)
+![FrameRotation_Set_Property](https://github.com/user-attachments/assets/d3e854ae-67f4-4e24-b069-14abddb83dc8)
+![FramePaddingTop_Set_Property](https://github.com/user-attachments/assets/479f59bb-b747-4266-9350-3d401eb60597)
+![FramePaddingRight_Set_Property](https://github.com/user-attachments/assets/775ccb00-a88a-4a85-8520-7ca9a13b8465)
+![FramePaddingLeft_Set_Property](https://github.com/user-attachments/assets/790e35e0-21ba-4c0a-90b8-cf15118a2503)
+![FramePaddingBottom_Set_Property](https://github.com/user-attachments/assets/32cbc0f3-5571-464c-af5c-80d5e0721bff)
+![FrameColor_Set_Property](https://github.com/user-attachments/assets/5b329ef1-87ae-44e0-8353-5bd4fbbd40d8)
+![EnableDarkMode_Set_Property](https://github.com/user-attachments/assets/ebfe37a2-93cf-47f9-907e-06d6c5171717)
+![DeviceName_Set_Property](https://github.com/user-attachments/assets/e2976ee2-e797-4042-82aa-d7bab31e282c)
+![CornerRadius_Set_Property](https://github.com/user-attachments/assets/30cd8147-6065-4d10-bc73-400bef7d3dbc)
+![CaptionTextStyle_Set_Property](https://github.com/user-attachments/assets/83f38108-be81-4e3b-bc37-0638b07ba9e3)
+![CaptionTextColor_Set_Property](https://github.com/user-attachments/assets/d21adbb3-7d0e-4c75-a7a4-a7d77ec67768)
+![CaptionText_Set_Property](https://github.com/user-attachments/assets/cce227e8-fe93-4b4d-b264-36bd8e91d26e)
+![CaptionSubTextStyle_Set_Property](https://github.com/user-attachments/assets/8a00ae0f-fb93-4628-ad86-5daa2587a34e)
+![CaptionSubTextColor_Set_Property](https://github.com/user-attachments/assets/5dac6ca7-6aad-4c33-aae3-acf3f80d2e48)
+![CaptionSubText_Set_Property](https://github.com/user-attachments/assets/b6c3b2c7-a1c3-4394-8d1e-6ce66e20533f)
+![CaptionSubFontSize_Set_Property](https://github.com/user-attachments/assets/cf953665-f9e6-48d3-b28d-4ac8e8950ac3)
+![CaptionRotation_Set_Property](https://github.com/user-attachments/assets/087b07e4-5fc3-413f-ad51-8e89dc3c9d34)
+![CaptionPaddingTop_Set_Property](https://github.com/user-attachments/assets/258e5a9b-a46e-4bd5-a5e2-7a1bd0dd374d)
+![CaptionPaddingRight_Set_Property](https://github.com/user-attachments/assets/baedba01-cd6b-4b13-ac1c-993baa06407d)
+![CaptionPaddingLeft_Set_Property](https://github.com/user-attachments/assets/7777fcb3-da36-4fad-98a0-c9b662bfa445)
+![CaptionPaddingBottom_Set_Property](https://github.com/user-attachments/assets/6fc5e58e-d44d-4b26-a950-a48c649664a8)
+![CaptionFontSize_Set_Property](https://github.com/user-attachments/assets/45fd5741-76ab-4c84-a127-094aa83e80ca)
+![ButtonColor_Set_Property](https://github.com/user-attachments/assets/21c4005d-56de-44b2-b1be-56411b8cd325)
+![BezelWidth_Set_Property](https://github.com/user-attachments/assets/52266590-e3da-4809-b658-37b5d04be151)
+![BackgroundColor_Set_Property](https://github.com/user-attachments/assets/601abbf7-79e6-4905-a72d-8fab18871262)
+![ShowVolumeButtons_Set_Property](https://github.com/user-attachments/assets/0f112c09-74a0-4dba-9120-c94ac1c87351)
+![ShowPowerButton_Set_Property](https://github.com/user-attachments/assets/0741c192-fa70-40c8-baee-1e85e7e70bb7)
+![ShowNotch_Set_Property](https://github.com/user-attachments/assets/7bd269c5-1274-44ac-b124-6d55a76d98f5)
+![ShowDeviceName_Set_Property](https://github.com/user-attachments/assets/43005bbc-1f9c-4590-af52-d5499b33deca)
+![ScreenColor_Set_Property](https://github.com/user-attachments/assets/180fbd06-b875-4ac2-92b9-cf2d0920b95c)
+![SaveDirectory_Set_Property](https://github.com/user-attachments/assets/d030054b-d8a0-4eab-b3d4-b4b85943faf6)
+![NotchType_Set_Property](https://github.com/user-attachments/assets/2b78cd01-f47d-4f0e-b22b-f3f528696b8c)
+
 
 ### EnableDarkMode
 Enable dark mode mockup
@@ -355,6 +414,10 @@ Set the default directory to save images to. If empty, will use the external sto
 
 ## <kbd>Getters:</kbd>
 **DeviceMockup** has total 2 getter properties.
+
+
+![ImageQuality_Get_Property](https://github.com/user-attachments/assets/b8456b8e-fb30-4635-9e12-4e98112367e1)
+![SaveDirectory_Get_Property](https://github.com/user-attachments/assets/f6f3ff0b-1d67-430a-a555-5bb9981e7970)
 
 ### ImageQuality
 Set the image quality for JPEG format (1-100). Only applies when saving as JPEG.
