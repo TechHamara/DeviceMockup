@@ -727,6 +727,16 @@ Set to true for dark mode, false for light mode
 # <kbd>🧩 Laptop</kbd>
 This component is developed by th using Fast.<br>This component provides a realistic laptop device mockup with customizable screen content.<br>It is designed to simulate the look and feel of a real laptop, allowing for a more immersive user experience.<br>The component is highly customizable, allowing developers to tailor the appearance and behavior to their specific needs.<br>With its advanced features and realistic design, this component is ideal for creating engaging and interactive laptop ScreenShot Mockup.<br><a href='https://t.me/techhamara91/' target='_blank'>Telegram</a> | <a href='https://github.com/TechHamara/' target='_blank'>GitHub</a><br><a href='https://techhamara.blogspot.com/' target='_blank'>Blogger</a> | <a href='https://m.youtube.com/c/TECHHAMARA?sub_confirmation=1' target='_blank'>YouTube</a><br><a href='https://github.com/TechHamara/Th_Free_Extensions' target='_blank'><small><u>Find More Extension</u></small></a><br><a href='https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE.md#terms-and-conditions-for-the-extension' target='_blank'><small><u>Terms & Conditions</u></small></a>
 
+-----
+
+![SaveFailed_Event](https://github.com/user-attachments/assets/fa6af86d-9e84-486e-88d2-ae99af5f7691)
+![SaveSuccess_Event](https://github.com/user-attachments/assets/061b806f-2bb4-4fa0-ad5b-057b22b131d3)
+
+-----
+
+
+
+
 ## <kbd>Events:</kbd>
 **Laptop** has total 2 events.
 
