@@ -729,14 +729,6 @@ This component is developed by th using Fast.<br>This component provides a reali
 
 -----
 
-![SaveFailed_Event](https://github.com/user-attachments/assets/fa6af86d-9e84-486e-88d2-ae99af5f7691)
-![SaveSuccess_Event](https://github.com/user-attachments/assets/061b806f-2bb4-4fa0-ad5b-057b22b131d3)
-
------
-
-
-
-
 ## <kbd>Events:</kbd>
 **Laptop** has total 2 events.
 
