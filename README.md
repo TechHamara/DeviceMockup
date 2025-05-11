@@ -19,6 +19,27 @@ An extension for MIT App Inventor 2.
 3. [Laptop](#kbd-laptopkbd-105)
 4. [SmartWatch](#kbd-smartwatchkbd-166)
 
+| output1 | Output2 |
+| - | - |
+| ![Screenshot_2025-05-09-07-37-13-211_appinventor.ai_Techhamara91.mockup.jpg](https://github.com/user-attachments/assets/b2fb1f15-64fa-4379-8ec1-ee537ea30325) | ![Screenshot_2025-05-09-07-37-02-560_appinventor.ai_Techhamara91.mockup.jpg](https://github.com/user-attachments/assets/c44acbec-4b2d-4443-a730-7e4389eb7398)
+
+## Desktop 
+
+| output1 | Output2 |
+| - | - |
+| ![imac_20250509_081503_160.jpg](https://github.com/user-attachments/assets/a03bcc72-dbb1-479d-a938-01dc3d547300) | ![imac_20250509_081340_115.jpg](https://github.com/user-attachments/assets/82438908-42ba-4cbb-988c-3dd73ba69254)
+
+
+
+| output1 | Output2 |
+| - | - |
+| ![Screenshot_2025-05-09-07-37-13-211_appinventor.ai_Techhamara91.mockup.jpg](https://github.com/user-attachments/assets/b2fb1f15-64fa-4379-8ec1-ee537ea30325) | ![Screenshot_2025-05-09-07-37-02-560_appinventor.ai_Techhamara91.mockup.jpg](https://github.com/user-attachments/assets/c44acbec-4b2d-4443-a730-7e4389eb7398)
+
+| output1 | Output2 |
+| - | - |
+| ![Screenshot_2025-05-09-07-37-13-211_appinventor.ai_Techhamara91.mockup.jpg](https://github.com/user-attachments/assets/b2fb1f15-64fa-4379-8ec1-ee537ea30325) | ![Screenshot_2025-05-09-07-37-02-560_appinventor.ai_Techhamara91.mockup.jpg](https://github.com/user-attachments/assets/c44acbec-4b2d-4443-a730-7e4389eb7398)
+
+
 # <kbd>🧩 DeviceMockup</kbd>
 This component is developed by th using Fast.<br>This component provides a realistic mobile device mockup with various notch types and physical buttons.<br>It is designed to simulate the look and feel of a real mobile device, allowing for a more immersive user experience.<br>The component is developed by th using Fast, ensuring a high level of detail and realism.<br>It includes a range of notch types, such as iPhone, punch hole, pill shape, slim notch, wide notch, double punch hole, dynamic island, and waterdrop, as well as physical buttons for volume and power control.<br>The component is highly customizable, allowing developers to tailor the appearance and behavior to their specific needs.<br>With its advanced features and realistic design, this component is ideal for creating engaging and interactive mobile ScreenShot Mockup.<br><a href='https://t.me/techhamara91/' target='_blank'>Telegram</a> | <a href='https://github.com/TechHamara/' target='_blank'>GitHub</a><br><a href='https://techhamara.blogspot.com/' target='_blank'>Blogger</a> | <a href='https://m.youtube.com/c/TECHHAMARA?sub_confirmation=1' target='_blank'>YouTube</a><br><a href='https://github.com/TechHamara/Th_Free_Extensions' target='_blank'><small><u>Find More Extension</u></small></a><br><a href='https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE.md#terms-and-conditions-for-the-extension' target='_blank'><small><u>Terms & Conditions</u></small></a>
 
