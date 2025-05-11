@@ -29,15 +29,17 @@ An extension for MIT App Inventor 2.
 | - | - |
 | ![imac_20250509_081503_160.jpg](https://github.com/user-attachments/assets/a03bcc72-dbb1-479d-a938-01dc3d547300) | ![imac_20250509_081340_115.jpg](https://github.com/user-attachments/assets/82438908-42ba-4cbb-988c-3dd73ba69254)
 
-
-
-| output1 | Output2 |
-| - | - |
-| ![Screenshot_2025-05-09-07-37-13-211_appinventor.ai_Techhamara91.mockup.jpg](https://github.com/user-attachments/assets/b2fb1f15-64fa-4379-8ec1-ee537ea30325) | ![Screenshot_2025-05-09-07-37-02-560_appinventor.ai_Techhamara91.mockup.jpg](https://github.com/user-attachments/assets/c44acbec-4b2d-4443-a730-7e4389eb7398)
+## Laptop 
 
 | output1 | Output2 |
 | - | - |
-| ![Screenshot_2025-05-09-07-37-13-211_appinventor.ai_Techhamara91.mockup.jpg](https://github.com/user-attachments/assets/b2fb1f15-64fa-4379-8ec1-ee537ea30325) | ![Screenshot_2025-05-09-07-37-02-560_appinventor.ai_Techhamara91.mockup.jpg](https://github.com/user-attachments/assets/c44acbec-4b2d-4443-a730-7e4389eb7398)
+| ![laptop_20250509_081450_344.jpg](https://github.com/user-attachments/assets/6066b9c9-559c-49a8-91c8-e755b76e7b8d) | ![laptop_20250509_081327_616.jpg](https://github.com/user-attachments/assets/e4b38979-218b-4165-af5e-3bafcb1f90fd)
+
+## Smart Watch
+
+| output1 | Output2 |
+| - | - |
+| ![Screenshot_2025-05-09-07-39-35-620_appinventor.ai_Techhamara91.mockup.jpg](https://github.com/user-attachments/assets/8d488eb2-0a29-455d-9901-e845da26d1ea) | ![watch_20250509_081350_620.jpg](https://github.com/user-attachments/assets/efd96153-3e81-4a2d-b979-dc67c8f1d4a4)
 
 
 # <kbd>🧩 DeviceMockup</kbd>
