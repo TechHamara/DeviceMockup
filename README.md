@@ -5,13 +5,14 @@ An extension for MIT App Inventor 2.
 
 ## 📝 Specifications
 * **
-📦 **Package:** io.th.devicemockup
-💾 **Size:** 111.86 KB
-⚙️ **Version:** 1.0
-📱 **Minimum API Level:** 7
-📅 **Updated On:** [date=2025-05-08 timezone="Asia/Calcutta"]
+📦 **Package:** io.th.devicemockup<br>
+💾 **Size:** 111.86 KB<br>
+⚙️ **Version:** 1.0<br>
+📱 **Minimum API Level:** 7<br>
+📅 **Updated On:** [date=2025-05-08 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
-* **
+* **<br>
+💲 **Buy On** UPI 430rs or  5 USD💲.
 
 ### 🤝 Multi-Components
 1. [DeviceMockup](#kbd-devicemockupkbd-3)
