@@ -1434,3 +1434,6 @@ Set the default directory to save images to. If empty, will use the external sto
 
 ### Thank
   TechHamara
+
+## Ai2 community 
+[here](https://community.appinventor.mit.edu/t/paid-devicemockup-a-realistic-design-and-interactive-mobile-desktop-laptop-smart-watch-screenshot-mockup/147611?u=techhamara)
